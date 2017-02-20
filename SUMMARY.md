@@ -4,5 +4,6 @@
 * [First Chapter](chapter1.md)
 * [Metadatos](metadatos.md)
 * [Resumen ejecutivo](resumen-ejecutivo.md)
-* [Introducción](introduccion.md)
+* [1. Introducción](introduccion.md)
+* [2. Plan de desarrollo](plan-de-desarrollo.md)
 
