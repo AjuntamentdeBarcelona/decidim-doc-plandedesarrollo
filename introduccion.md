@@ -41,3 +41,11 @@ El desarrollo de la plataforma está sujeto a tres tensiones:
 3. Acomodar el sistema de desarrollo a las posibilidades y procedimientos de contratación pública, de manera que facilite su extensión.
 
 Encontrar el equilibrio entre estos polos se ha mostrado extraordinariamente difícil. Este Plan de Desarrollo nace a partir de la experiencia en el desarrollo inicial de Decidim Barcelona y la detección e identificación de necesidades para la planificación y escalabilidad de la plataforma.  En este sentido se plantea la necesidad de poder articular una arquitectura tanto del código como del desarrollo y gobernanza del proyecto que permita un desarrollo modular basado en componentes, que facilite su escalabilidad y reutilización evitando generar múltiples *forks* que a la larga sean irreconciliables entre sí, y permita la creación de comunidades de desarrollo en torno al código. Estos motivos implican que la plataforma debe ser plenamente desarrollada en software libre y su desarrollo se debe realizar en abierto, como se ha hecho hasta ahora en Github. En definitiva se plantea un Plan de Desarrollo que siente las bases para un crecimiento modular, escalable, sostenible y reutilizable que genere un ecosistema de cooperación común entre ciudadanía, instituciones públicas, desarrolladores profesionales y personas y organizaciones de la sociedad civil.
+
+[^1]: Como lo ha definido la revista Forbes: http://www.forbes.com/sites/mikemontgomery/2015/06/24/why-civic-tech-is-the-next-big-thing/#1df2f6ce24b6
+[^2]: https://decide.madrid.es
+[^3]: https://github.com/consul/consul
+[^4]: https://decide.madrid.es/docs/directrices_ejercicio_propuesta.pdf
+[^5]: https://aportaaberta.coruna.es/
+[^6]: http://www.consultaoviedo.es/
+[^7]: https://es.wikipedia.org/wiki/Programaci%C3%B3n_extrema
