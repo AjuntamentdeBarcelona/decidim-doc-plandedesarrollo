@@ -9,4 +9,5 @@
 * [3. MetaDecidim](metadecidim.md)
 * [Conclusión](conclusion.md)
 * [Bibliografía](bibliografia.md)
+* [Anexo 1. Especificaciones para el Configurador de Procesos Participativos](anexo-1.-especificaciones-para-el-configurador-de-procesos-participativos.md)
 
