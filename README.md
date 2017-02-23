@@ -43,8 +43,6 @@ _Ajuntament de Barcelona_
 
 * El plan se cierra proponiendo decidim.barcelona como infraestructura democrática para la democracia, base para la **democracia del futuro, hoy.**
 
-[^1]: Ver "A successful Git branching model" por Vincent Driessen publicado el 5 de enero de 2010 http://nvie.com/posts/a-successful-git-branching-model/
-
 ##  Metadatos
 
 <table>
@@ -95,7 +93,7 @@ Se concede permiso para copiar, distribuir y/o modificar este documento bajo los
   </tr>
 </table>
 
-## Criterios de autoría y cómo participar en este documento [^1]
+## Criterios de autoría y cómo participar en este documento [^2]
 
 Este documento se abrirá a la participación. Podrás contribuir a este documento de varias formas diferentes. Excepto la función de edición el resto de las formas de participación y los niveles y criterios de autoría se especifican a continuación:
 
@@ -109,4 +107,6 @@ Este documento se abrirá a la participación. Podrás contribuir a este documen
 
 * *Revisor/a*: Esta labor incluye una lectura minuciosa de todo el texto, la corrección de errores y la propuesta de mejoras al mismo. Por lo general, es un trabajo por encargo (solicitado a una persona que se considera competente en la materia), aunque es posible que alguien contribuya haciendo una revisión sin solicitud expresa. En tal caso, la profundidad y calidad de la misma pueden calificar para considerar a esta persona revisora.  
 
-[^1]: Esta división y especificación de niveles de autoría se ha copiado directamente de los criterios establecidos en el proyecto FLOK Society - Buen conocer (véase: Barandiaran et al. 2015, pp.38-39).)
+[^1]: Ver "A successful Git branching model" por Vincent Driessen publicado el 5 de enero de 2010 http://nvie.com/posts/a-successful-git-branching-model/
+
+[^2]: Esta división y especificación de niveles de autoría se ha copiado directamente de los criterios establecidos en el proyecto FLOK Society - Buen conocer (véase: Barandiaran et al. 2015, pp.38-39).)
