@@ -1,4 +1,4 @@
-# 1 Introducción: 
+# 1 Introducción
 
 ## 1.1	Infraestructuras digitales público-comunes y el futuro de la participación política
 
