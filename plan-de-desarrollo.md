@@ -428,8 +428,7 @@ Conscientes de la relevancia del polo ciudadano y social a la hora de garantizar
 La organización de RRHH y funciones dentro del proyecto es compleja y debe comprenderse como una red de actores financiados, localizados y agrupados en entidades diversas, siendo el Ajuntament quien provee de los nodos de conexión central y asegura tanto la conectividad como la sostenibilidad de la red para el desempeño global de funciones.
 
   ![image alt text](image_1.png)
-
-       Figura X:  Red de actores ligados al desarrollo y despliegue de Decidim Barcelona  
+**Figura X:  Red de actores ligados al desarrollo y despliegue de Decidim Barcelona  **
 
 La Figura X muestra la estructura aproximada de la red. El modelo organizativo está orientado a un tipo de desarrollo ágil[^3] y tecnopolítico, capaz de producir y conectar software, procesos, investigaciones y visiones políticas de modo dinámico, situado y reconfigurable.                                                                          
 

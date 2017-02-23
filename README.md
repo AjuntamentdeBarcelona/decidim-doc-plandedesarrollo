@@ -3,6 +3,8 @@ _Informe técnico de la Direcció de Recerca, Desenvolupament i Innovació, Regi
 
 _Ajuntament de Barcelona_
 
+![Ajuntament de Barcelona](logo_ajbcn.jpg)
+
 --------
 
 ## Resumen Ejecutivo
