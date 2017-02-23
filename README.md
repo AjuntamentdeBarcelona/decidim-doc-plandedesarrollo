@@ -1,5 +1,6 @@
 # Plan de desarrollo Decidim Barcelona
 _Informe técnico de la Direcció de Recerca, Desenvolupament i Innovació, Regidoría de Participació i Districtes_
+
 _Ajuntament de Barcelona_
 
 --------
